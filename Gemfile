@@ -8,6 +8,9 @@ gem 'coffee-rails', '~> 5.0'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'turbolinks', '~> 5.2', '>= 5.2.1'
 gem 'jbuilder', '~> 2.9', '>= 2.9.1'
+gem 'bootsnap', '~> 1.4', '>= 1.4.5'
+gem 'webpacker', '~> 4.0', '>= 4.0.7'
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
 group :development, :test do
   gem 'sqlite3', '~> 1.4', '>= 1.4.1'
